@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\drawable_account_icon.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\drawable\\account_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\drawable_sign_in_up.png.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\drawable\\sign_in_up.png"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_activity_admin.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_activity_movie.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\activity_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_image_slider_layout_item.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\image_slider_layout_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_activity_payment.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_item_movie.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\item_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_activity_add_user.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\activity_add_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_activity_manage_user.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\activity_manage_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_item_search.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\item_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_item_seat.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\item_seat.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\drawable_baseline_add_circle_outline.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\drawable\\baseline_add_circle_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_item_user.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\item_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_activity_manage_movie.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\activity_manage_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_activity_edit_movie.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\activity_edit_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\drawable_baseline_search.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\drawable\\baseline_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_activity_begin.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\activity_begin.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\drawable_baseline_delete.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\drawable\\baseline_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_activity_view_ticket.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\activity_view_ticket.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_activity_seat.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\activity_seat.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\drawable_welcome.png.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\drawable\\welcome.png"
+    },
+    {
+        "merged": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-debug-4:\\layout_item_time.xml.flat",
+        "source": "C:\\Users\\tfgh\\.gradle\\daemon\\8.7\\com.example.film.app-main-6:\\layout\\item_time.xml"
+    }
+]
