@@ -1,5 +1,7 @@
 package com.example.film.database;
 
+import android.graphics.Bitmap;
+
 import java.util.List;
 
 public class Reservation {

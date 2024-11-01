@@ -15,6 +15,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.example.film.R;
 import com.example.film.database.DatabaseHelper;
 import com.example.film.database.Movie;
+import com.example.film.database.User;
 
 import java.util.ArrayList;
 import java.util.List;
