@@ -13,6 +13,8 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+import com.example.film.database.Preference;
+
 public class BeginActivity extends AppCompatActivity {
 
     private Button buttonGetStared;
@@ -51,4 +53,3 @@ public class BeginActivity extends AppCompatActivity {
         finish();
     }
 }
-

@@ -13,6 +13,7 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 import com.example.film.database.User;
+import com.example.film.database.DatabaseHelper;
 
 public class SignUpActivity extends AppCompatActivity {
 
